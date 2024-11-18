@@ -1,0 +1,1 @@
+Collection of Wednesday Java/Misc associate training challenges
